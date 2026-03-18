@@ -19,5 +19,6 @@ Ccobalt is released :D!
 
 ### Syntax:
 To print string you are now forced to use "" (to avoid bugs).
+
 ---
 Ccobalt 2026
