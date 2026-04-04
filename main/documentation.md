@@ -104,3 +104,12 @@ HIB_ :
 
 ---
 
+working example :
+```C
+#include <stdio.h>
+
+int main()
+{
+ printf("%s blue! %s", RC_BL, M_RE);
+}
+```
