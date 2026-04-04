@@ -104,12 +104,29 @@ HIB_ :
 
 ---
 
-working example :
+working example for C :
 ```C
 #include <stdio.h>
+#include "vrodux.h"
 
 int main()
 {
- printf("%s blue! %s", RC_BL, M_RE);
+ printf("%s blue! %s %s", RC_BL, M_RE, S_NL);
 }
 ```
+
+working example for C++ :
+```C++
+#include <iostream>
+#include "vrodux.h"
+
+int main()
+{
+  std::cout << HI_PU << "Wow!" << M_RE << S_NL;
+}
+```
+
+---
+
+version : 1.0.0
+note : Some colors may be innacurate depending on the OS/compiler.
