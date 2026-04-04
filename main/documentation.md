@@ -129,4 +129,5 @@ int main()
 ---
 
 version : 1.0.0
+
 note : Some colors may be innacurate depending on the OS/compiler.
