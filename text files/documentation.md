@@ -110,7 +110,8 @@ working example for C :
 int main()
 {
  printf("%s blue! %s %s", RC_BL, M_RE, S_NL);
-}```
+}
+```
 
 working example for C++ :
 ```C++
