@@ -32,7 +32,6 @@
 #define S_HV "\xhh" // hexadecimal value
 
 #define M_RE "\033[0m" // reset
-#define M_CS "\e[1;1H\e[2J" // clear screen
 
 #define RC_BLK "\033[0;30m" // black
 #define RC_RE "\033[0;31m" // red
