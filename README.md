@@ -1,13 +1,25 @@
-*So while i was messing around with escape codes in C, i had the idea of making an header file where i would give a different name to some useful escape codes so i wouldn't have to rewrite them.*
+**Description :**
+Vrodux is a personal library of mine consisting of shortcuts for escape codes, while some of them can even enhance your terminal and help you in daily tasks.
 
-*Everyone probably have their own version of this,but i mean.. Incase anyone want to use this,then they can :D*
-
-> Fun fact : I found the name by looking at my printer label,there i saw the word "product" and i just replaced and removed some letters..bruh.
-
-Some extra informations :
-
+**Details :**
 - This do not require any skills,anyone can remake what i just did.
-- There is also a documentation file.
-- I will sometime update this librarie,cuz why not.
+- There is also a documentation file in the `text files` folder.
 
-**have a good day!**
+**Additional informations :**
+
+- No license available for this project.
+- Will rarely get updated.
+- Free to use and modify.
+
+**How to use :**
+
+- In your project, you have to download the file/copy the content of it, add it in your current space and include it where you want to use it.
+- For this operation, a compiler is needed.
+
+ **Tested on :**
+
+OS :
+- fedora workstation 43,44
+
+INTERPRETERS :
+- visual studio code
